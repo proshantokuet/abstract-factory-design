@@ -11,6 +11,11 @@
 .mtj.tmp/
 
 # Package Files #
+target/
+.project
+.classpath
+.settings/
+bin/
 *.jar
 *.war
 *.nar
